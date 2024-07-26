@@ -7,7 +7,9 @@ This project is done as a part of 1 Day Hackathon conducted by Microsoft sponsor
 The project is implemented using langchai, FAISS and the concepts of LLMs. The code is a slow implementation Because the vector embeddings and the Phi's index takes a lot of time to compute And that is why we have created another notebook for faster implementation, which uses the smart document data frame from Pandas Ai Library which computes the embedding faster so that we can make an inference.
 
 There is a still lot's of Scope in this Project and We are working on this ,feel free to give any Suggestions that will help us to improve the project/
+Embedding will be generated as you run the basic version and it will take lots of time, so you can refer to Smart dataframe one!!
 
+Have Fun and Keep Coding:)
 
 To setup this project, you need to run the following commands:
 
